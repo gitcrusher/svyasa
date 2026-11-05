@@ -1,0 +1,31 @@
+# Python
+backend/venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# Node
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.qodo/
+
+# Vercel
+.vercel
+
